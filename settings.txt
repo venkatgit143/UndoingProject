@@ -1,1 +1,2 @@
 This is setting page
+Login page link
